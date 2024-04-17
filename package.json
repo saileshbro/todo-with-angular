@@ -22,7 +22,7 @@
     "@ngxs/logger-plugin": "^3.8.2",
     "@ngxs/store": "^3.8.2",
     "@tailwindcss/forms": "^0.5.7",
-    "@tailwindcss/typography": "^0.5.10",
+    "@tailwindcss/typography": "^0.5.11",
     "angular-svg-icon": "^11.2.0",
     "appwrite": "^2.0.0",
     "rxjs": "^6.6.7",
